@@ -20,7 +20,27 @@ jokes = [
     "How does a penguin build its house? Igloos it together!",
     "I told my boss I needed a pay raise; he said my pay was a joke, and I replied, 'Well, now it's funny.'",
     "What did the fish say when it hit the wall? Dam.",
-    "Why don’t scientists trust atoms? Because they make up everything."
+    "Why don’t scientists trust atoms? Because they make up everything.",
+    "Kenapa ikan nggak bisa nyetir mobil? Karena nggak ada SIMurang.",
+    "Kenapa burung gagak terbangnya cepet? Soalnya nggak bawa beban masa lalu.",
+    "Kenapa komputer nggak bisa melamun? Soalnya nggak punya prosesor bayangan.",
+    "Kenapa toko kue bangkrut? Karena usahanya kurang manis.",
+    "Kenapa pohon pisang nggak pernah kedinginan? Karena selalu bawa selimut daun.",
+    "Apa bedanya kambing sama penyanyi? Kambing nge-mbek, penyanyi nge-hits.",
+    "Kenapa sepatu lari cepat? Karena sering jogging!",
+    "Apa bedanya garam sama gula? Kalau garam bikin asin, kalau gula bikin manis-manis perhatian.",
+    "Kenapa kaca depan mobil ada wipernya? Karena nggak mau basah hati-hati.",
+    "Kenapa burung suka di udara? Karena kalau di darat namanya ayam.",
+    "Kenapa tukang pos nggak pernah marah? Karena selalu mengantar kabar baik.",
+    "Kenapa motor suka mogok? Karena nggak punya semangat hidup.",
+    "Kenapa ayam nggak bisa main sepak bola? Karena takut kena ayam-talking.",
+    "Apa bedanya kopi sama hidup? Kalau kopi pahitnya bisa ditambah gula, kalau hidup? Tetap tabah.",
+    "Kenapa kucing suka nge-meow? Karena nggak ngerti bahasa manusia.",
+    "Kenapa gajah nggak pernah main game komputer? Karena nggak muat di layar.",
+    "Kenapa hujan sering turun? Karena nggak kuat nahan rindu sama tanah.",
+    "Kenapa kalender nggak pernah bosan? Karena setiap hari ada tanggal baru.",
+    "Kenapa ban nggak pernah lapar? Karena sering makan jalan.",
+    "Kenapa bakso enak dimakan pas hujan? Karena bakso selalu bikin hangat hati."
 ]
 
 def get_random_joke():
